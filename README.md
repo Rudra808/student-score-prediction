@@ -20,7 +20,11 @@ The model achieved an R² score of **0.96** on the test dataset using an 80-20 t
 
 2. Run the project:
    python main.py
-   
+
+## Project Output
+
+![Model Output](output.png)
+
 ## Description
 The model learns the relationship between hours studied and exam score, 
 then predicts the score for new input values.
